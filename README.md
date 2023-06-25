@@ -35,6 +35,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="Git" width="40" height="40"/> -->
+
+  ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logo=Sourcetree&logoColor=white)
+  ![miro](https://img.shields.io/badge/miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
   
   [![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring)](https://skillicons.dev)
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" title="Git" alt="Git" width="50" height="50"/>
