@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EnjoyTime18/EnjoyTime18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,5 +42,9 @@ Here are some ideas to get you started:
   [![My Skills](https://skillicons.dev/icons?i=mysql,js,html,css,jquery,bootstrap,aws,git,github,postman)](https://skillicons.dev)
   
 </div>
+
+<br><br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggbb2956@gmail.com)](mailto:ggbb2956@gmail.com) : ggbb2956@gmail.com
 
 ***
