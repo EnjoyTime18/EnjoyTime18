@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<br><br>
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ggbb2956@gmail.com)](mailto:ggbb2956@gmail.com) : ggbb2956@gmail.com
 
