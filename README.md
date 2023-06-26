@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!%20My%20name%20is%20SeongMin%20Cho!&fontAlign=50&fontAlignY=30&color=gradient&fontSize=40)
-<div style ="text-align:center";>
+<p align="center">
 <img src = "https://user-images.githubusercontent.com/122508872/230572673-beee0e97-cb7a-4277-b514-3cf7ff917fe6.gif" style="vertical-align:middle" >
-</div>
+</p>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
